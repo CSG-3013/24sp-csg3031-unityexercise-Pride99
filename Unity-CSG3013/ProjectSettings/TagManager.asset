@@ -9,6 +9,8 @@ TagManager:
   - SoccerBall
   - PushObstacle
   - EndTrigger
+  - EndGame
+  - KickedGate
   layers:
   - Default
   - TransparentFX

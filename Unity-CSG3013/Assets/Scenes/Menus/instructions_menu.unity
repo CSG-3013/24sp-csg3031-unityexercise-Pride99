@@ -866,7 +866,7 @@ GameObject:
   - component: {fileID: 1386202513}
   - component: {fileID: 1386202512}
   - component: {fileID: 1386202511}
-  - component: {fileID: 1386202510}
+  - component: {fileID: 1386202515}
   m_Layer: 5
   m_Name: UI_ToStart_BTN
   m_TagString: Untagged
@@ -894,22 +894,6 @@ RectTransform:
   m_AnchoredPosition: {x: 2, y: 1}
   m_SizeDelta: {x: -200, y: -78}
   m_Pivot: {x: 0.5, y: 0}
---- !u!114 &1386202510
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1386202508}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: e7d6589194a43b1478cba7d0b5c22aba, type: 2}
 --- !u!114 &1386202511
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1020,6 +1004,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1386202508}
   m_CullTransparentMesh: 1
+--- !u!114 &1386202515
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1386202508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: cdc117787578ef4408c01173cc17e2a9, type: 2}
 --- !u!1 &1518821027
 GameObject:
   m_ObjectHideFlags: 0

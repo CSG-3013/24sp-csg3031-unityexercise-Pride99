@@ -700,17 +700,17 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Game Over Play Again?
+  m_text: Thanks for helping out! Want to Play Again?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
-  m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
+  m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4280163037
-  m_fontColor: {r: 0.8679245, g: 0.10234957, b: 0.11868504, a: 1}
+    rgba: 4279950635
+  m_fontColor: {r: 0.16987091, g: 0.8666667, b: 0.10196078, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -727,12 +727,12 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 100
+  m_fontSize: 171.5
   m_fontSizeBase: 100
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
-  m_fontSizeMax: 100
+  m_fontSizeMax: 1000
   m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
@@ -763,7 +763,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -258.8859, y: -154.90723, z: -362.86417, w: -127.321045}
+  m_margin: {x: -762.46515, y: -374.65094, z: -824.3257, w: -171.26978}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -813,10 +813,10 @@ RectTransform:
   - {fileID: 199106837}
   m_Father: {fileID: 921419226}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.416, y: 0.19600001}
-  m_AnchorMax: {x: 0.62325, y: 0.34600002}
-  m_AnchoredPosition: {x: 2, y: 1}
-  m_SizeDelta: {x: -200, y: -78}
+  m_AnchorMin: {x: 0.416, y: 0.09900001}
+  m_AnchorMax: {x: 0.62325, y: 0.24300002}
+  m_AnchoredPosition: {x: 2, y: -3}
+  m_SizeDelta: {x: -200, y: -72}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1631575324
 MonoBehaviour:
@@ -919,7 +919,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8396226, g: 0.099012084, b: 0.099012084, a: 1}
+  m_Color: {r: 0.12299865, g: 0.5411765, b: 0.09803921, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1

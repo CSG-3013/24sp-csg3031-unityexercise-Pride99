@@ -525,17 +525,25 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: INSTRUCTIONS FOR THE GAME
+  m_text: Welcome to the park! While you're here, we could use some help cleaning
+    up. In the first section, collect all 3 trash bags to open the gate. In the next
+    area, 2 things need to be done to open the final gate. There are white, gray,
+    and red soccer balls scattered around. The red balls don't belong here, please
+    pick up all 4! The white balls belong to the park, don't mind them. The last
+    thing you will need to do in order to open the final gate is find all 4 grey
+    soccer balls and kick them against the final gate! It is a bit stuck, and the
+    gray balls are old and we don't need them anymore. Thanks for helping out, a
+    clean park is a happy park!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
-  m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0161d805a3764c089bef00bfe00793f5, type: 2}
+  m_sharedMaterial: {fileID: 2147374, guid: 0161d805a3764c089bef00bfe00793f5, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4280163037
-  m_fontColor: {r: 0.8679245, g: 0.10234957, b: 0.11868504, a: 1}
+    rgba: 4278731278
+  m_fontColor: {r: 0.05660379, g: 0.25882354, b: 0.03123614, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -552,7 +560,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 100
+  m_fontSize: 54.5
   m_fontSizeBase: 100
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -588,7 +596,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -258.8859, y: -154.90723, z: -362.86417, w: -127.321045}
+  m_margin: {x: -725.2384, y: -396.2491, z: -767.5202, w: -227.12416}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -891,7 +899,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.416, y: 0.19600001}
   m_AnchorMax: {x: 0.62325, y: 0.34600002}
-  m_AnchoredPosition: {x: 2, y: 1}
+  m_AnchoredPosition: {x: 0, y: -159}
   m_SizeDelta: {x: -200, y: -78}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1386202511
@@ -979,7 +987,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8396226, g: 0.099012084, b: 0.099012084, a: 1}
+  m_Color: {r: 0.09803921, g: 0.5411765, b: 0.13227434, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
